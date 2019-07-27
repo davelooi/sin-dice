@@ -1,2 +1,2 @@
-require './lib/app'
-run App
+require './lib/sin_dice'
+run SinDice
